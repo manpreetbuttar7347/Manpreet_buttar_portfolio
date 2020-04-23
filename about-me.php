@@ -6,6 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="keywords" content="Website creator,Website designer,full stack developer">
     <meta name="description" content="i am manpreet buttar-Web developer ">
+    <link rel="shortlink" href="https://manpreetbuttar.herokuapp.com/">
+       <link rel="canonical" href="https://manpreetbuttar.herokuapp.com/">
     <meta charset="utf-8" />
     <link rel="stylesheet" href="css/main.css">
 
