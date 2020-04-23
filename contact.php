@@ -32,7 +32,7 @@
             <ul>
                 <li><a href="index.php" class="active">Home</a></li>
                 <li><a href="Skills.php">Skills</a></li>
-                <li><a href="about-Me.php">About me</a></li>
+                <li><a href="about-me.php">About me</a></li>
                 <li><a href="contact.php">Contact </a></li>
             </ul>
         </nav>
