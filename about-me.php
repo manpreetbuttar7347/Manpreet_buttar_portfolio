@@ -46,7 +46,7 @@
                         <p> Hi,i am manpreet kaur buttar.i have done bachelor of computer application from panjab chandigarh university.now i am pursuing web design and devlopment from conestoga college, kitchener.i have learnt many languages in this course like PHP,Html,CSS,Javascript and android development.moreover i made many websites and projects during my course. moreover i have a good knowledge of altervista and wordpress.recently i have designed my website in altervista .so Hire me today to develop or design your new responsive,mobile friendly and fast website. </p>
                     </div>
 
-                    <button class="btnwordpress" onclick="window.location.href = 'contact.html';">Contact Me</button>
+                    <button class="btnwordpress" onclick="window.location.href = 'https://manpreetbuttar.herokuapp.com/';">Contact Me</button>
                 </div>
             </div>
         </main>
